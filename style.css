@@ -1,0 +1,121 @@
+body {
+    background :url(Spiderman.jpg);
+    margin: auto;
+}
+.JUDUL {
+    text-align: center;
+    list-style: none;
+    font-style: inherit;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-stretch: extra-expanded;
+    color:seashell;
+    font-size: large;
+}
+
+.JENIS,.JENIS
+li {
+    text-align: center;
+
+}
+
+.PHASEONE,.PHASEONE
+li {
+    text-align: center;
+
+    font-style: italic;
+}
+
+.HALO {
+    text-align: center;
+    font-style: italic;
+    color: whitesmoke;
+}
+
+.PHASETWO,.PHASETWO li{
+    text-align: center;
+    
+    font-style: italic;
+}
+
+.PHASETHREE,.PHASETHREE li{
+    text-align: center;
+   
+    font-style: italic;
+}
+
+.PHASEFOUR,.PHASEFOUR li {
+    text-align: center;
+    
+    font-style: italic;
+}
+
+footer {
+    text-align: center;
+    background-color:gray;
+}
+
+.JENIS ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: slategray;
+justify-content: space-evenly;
+}
+
+.JENIS li {
+float: left;
+}
+
+.JENIS li a {
+display: block;
+color: white;
+text-align: center;
+padding: 16px 32px;
+text-decoration: none;
+justify-content: space-evenly;
+}
+
+.JENIS li a:hover {
+background-color: black;
+}
+
+.HAHA {
+font-style: italic;
+font-family: 'Times New Roman', Times, serif;
+color: whitesmoke;
+font-size: medium;
+text-align: center;
+}
+
+.HEHE {
+font-style: italic;
+font-family: 'Times New Roman', Times, serif;
+font-size: medium;
+color: whitesmoke;
+text-align: center;
+}
+
+.HOHO {
+font-style: italic;
+font-family: 'Times New Roman', Times, serif;
+font-size: medium;
+color: whitesmoke;
+text-align: center;
+}
+
+.HIHI {
+font-style: italic;
+font-family: 'Times New Roman', Times, serif;
+font-size: medium;
+color: whitesmoke;
+text-align: center;
+}
+
+.HUHU {
+font-style: italic;
+font-family: 'Times New Roman', Times, serif;
+font-size: medium;
+color: whitesmoke;
+text-align: center;
+}
